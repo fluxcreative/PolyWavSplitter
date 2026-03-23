@@ -1,4 +1,4 @@
-# 🎧 PolyWav Splitter (macOS)
+# PolyWav Splitter (macOS)
 
 A batch-processing utility to split multi-track (polyphonic) WAV files into individual mono tracks. Optimized for location sound recordists and live engineers using hardware like **Sound Devices (MixPre/8-Series)**, **Zoom**, or **Scorpio**.
 
