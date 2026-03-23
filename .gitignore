@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+
+# PyInstaller folders (Temporary build files)
+build/
+dist/
+*.spec
+
+# Local Environment
+venv/
+env/
+.env
+
+# Large Binaries (Developers should download their own)
+bin/ffmpeg
+bin/ffprobe
+
+# PyInstaller junk
+build/
+dist/
+*.spec
+
+# The binaries
+bin/
+
+# Your extra folder
+unused/
+
+# System junk
+.DS_Store
