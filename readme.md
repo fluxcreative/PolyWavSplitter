@@ -1,6 +1,6 @@
-# 🎧 PolyWav Splitter Pro (macOS)
+# 🎧 PolyWav Splitter (macOS)
 
-A professional batch-processing utility to split multi-track (polyphonic) WAV files into individual mono tracks. Optimized for location sound recordists and live engineers using hardware like **Sound Devices (MixPre/8-Series)**, **Zoom**, or **Scorpio**.
+A batch-processing utility to split multi-track (polyphonic) WAV files into individual mono tracks. Optimized for location sound recordists and live engineers using hardware like **Sound Devices (MixPre/8-Series)**, **Zoom**, or **Scorpio**.
 
 ## Two Ways to Use
 
@@ -20,7 +20,7 @@ A professional batch-processing utility to split multi-track (polyphonic) WAV fi
 
 ---
 
-## ✨ Key Features
+## Key Features
 * **Batch Conversion:** Process dozens of PolyWavs simultaneously.
 * **iXML Metadata Support:** Automatically names tracks based on your soundboard labels (e.g., *Kick, Snare, Vocal*) rather than just *Track 1, Track 2*.
 * **Intelligent Organization:** Automatically creates a sub-folder for every PolyWav to keep your exports organized.
@@ -28,12 +28,8 @@ A professional batch-processing utility to split multi-track (polyphonic) WAV fi
 
 ---
 
-## 🛠 Built With
+## Built With
 * **Python** & **CustomTkinter** - For the modern, responsive interface.
 * **FFmpeg** - The engine used for high-fidelity audio splitting.
 * **PyInstaller** - Used to bundle the standalone macOS application.
 
----
-
-## 📄 License
-This project is open-source. Feel free to use, modify, and share.
